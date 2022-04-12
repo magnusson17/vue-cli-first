@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div>
     <h2>La mia prima app con Vue CLI!</h2>
   </div>
 </template>
